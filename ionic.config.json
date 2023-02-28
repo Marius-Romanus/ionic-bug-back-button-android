@@ -1,0 +1,7 @@
+{
+  "name": "back button android",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
